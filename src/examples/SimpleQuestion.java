@@ -23,7 +23,7 @@ public class SimpleQuestion {
 //		return s.equals("yes") || s.equals("y") || s.equals("t") || s.equals("true");
 //	}
 //	
-//	public static void main(String[] args) {
-//		System.out.println(yesOrNo("true") + " " + yesOrNo("YeS"));
-//	}
+	public static void main(String[] args) {
+		System.out.println(yesOrNo("true") + " " + yesOrNo("YeS"));
+	}
 }

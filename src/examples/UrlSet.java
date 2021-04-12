@@ -12,7 +12,8 @@ public class UrlSet {
 			"https://population.io/", 
 			"http://www.fi.upm.es/",
 			"http://www.catsthatlooklikehitler.com/",
-			"https://apolloinrealtime.org/"};
+			"https://apolloinrealtime.org/",
+			"http://www.etsiinf.upm.es/"};
 
 	public static void main(String[] args) throws MalformedURLException {
 

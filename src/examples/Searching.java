@@ -17,7 +17,7 @@ public class Searching {
 			integers.add(Integer.valueOf(s));
 		}
 
-		System.out.println(Collections.binarySearch(integers, 1, cmp) + "	, "
+		System.out.println(Collections.binarySearch(integers, 1, cmp) + ", "
 				+ Collections.binarySearch(integers, 130, cmp));
 	}
 
