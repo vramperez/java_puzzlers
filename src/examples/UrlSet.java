@@ -8,12 +8,12 @@ import java.util.Set;
 public class UrlSet {
 
 	private static final String[] URL_NAMES = {
-			"http://www.etsiinf.upm.es/",
+			"http://dssc.fi.upm.es/",
 			"https://population.io/", 
-			"http://www.fi.upm.es/",
+			"http://muss.fi.upm.es/",
 			"http://www.catsthatlooklikehitler.com/",
 			"https://apolloinrealtime.org/",
-			"http://www.etsiinf.upm.es/"};
+			"http://dssc.fi.upm.es/"};
 
 	public static void main(String[] args) throws MalformedURLException {
 
